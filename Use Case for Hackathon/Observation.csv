@@ -1,0 +1,11 @@
+ObservationID,EncounterID,PatientID,Metric,Value,Unit,ObservationDate
+1,E00101,P00201,Blood Pressure,120,mmHg,2024-01-01
+2,E00102,P00202,Heart Rate,75,bpm,2024-01-11
+3,E00103,P00203,Temperature,98.6,F,2024-01-21
+4,E00104,P00204,Respiration Rate,16,breaths/min,2024-01-31
+5,E00105,P00205,Oxygen Saturation,98,%,2024-02-10
+6,E00106,P00206,Blood Sugar,110,mg/dL,2024-02-20
+7,E00107,P00207,Cholesterol,190,mg/dL,2024-03-01
+8,E00108,P00208,Weight,70,kg,2024-03-11
+9,E00109,P00209,Height,170,cm,2024-03-21
+10,E00110,P00210,BMI,24,kg/m2,2024-03-31
